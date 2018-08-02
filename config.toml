@@ -7,7 +7,7 @@ logoLink = "/testhrocket"
 metaKeywords = "HTML, CSS, XML, XHTML, JavaScript"
 googleAnalyticsTrackingId = "UA-232232-34"
 siteUrl = "http://example.com"
-robotsAllow = "True"
+robotsAllow = "False"
 
 [[mainMenu]]
   name = "Home"
